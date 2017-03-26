@@ -1,0 +1,9 @@
+puts 5**2
+puts 5**0.5
+puts 7/3
+puts 7%3
+puts (1-3).abs
+puts rand
+puts rand(1000)
+puts Math::PI
+puts Math.cos(Math::PI/3)
